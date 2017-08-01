@@ -1,6 +1,6 @@
 # clj-fizz-buzz
 
-A Clojure library designed to ... well, that part is up to you.
+A function that uses basic clojure to answer Tom Scotts question in the following (youtube video)[https://www.youtube.com/watch?v=QPZ0pIK_wsc] 
 
 ## Usage
 
