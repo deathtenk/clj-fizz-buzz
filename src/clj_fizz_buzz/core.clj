@@ -16,13 +16,3 @@
         (recur (dec iterator) (conj result "buzz"))
         :else
         (recur (dec iterator) (conj result iterator)))))))
-
-(fizz-buzz 15)
-
-(loop [iterator 100]
-  (if (= iterator 0)
-    0
-    (recur (dec iterator))))
-
-(def foo 15)
-
